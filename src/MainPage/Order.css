@@ -1,0 +1,14 @@
+.order_block {
+  /* margin-top: 60px; */
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.order_block img {
+  margin-top: 120px;
+  width: 30%;
+}
+
+.order_block p {
+  margin-top: 10px;
+}
